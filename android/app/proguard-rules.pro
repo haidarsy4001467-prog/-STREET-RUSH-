@@ -1,0 +1,2 @@
+-keep class com.streetrush.game.** { *; }
+-dontwarn androidx.webkit.**

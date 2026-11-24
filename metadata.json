@@ -1,0 +1,6 @@
+{
+  "name": "STREET RUSH – سباق الشوارع",
+  "description": "لعبة سباق سيارات أركيد ثنائية الأبعاد بمنظور علوي على طرق المدينة السريعة باللغة العربية بالكامل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

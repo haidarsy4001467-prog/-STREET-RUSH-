@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.StreetRush" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">#0B0E14</item>
+        <item name="android:statusBarColor">#0B0E14</item>
+        <item name="android:navigationBarColor">#0B0E14</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
